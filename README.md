@@ -1,6 +1,5 @@
 
 
-# Github:
 
 
 # Refrences:
@@ -17,7 +16,12 @@ https://www.youtube.com/watch?v=t-1hSXpfFrc
 https://www.youtube.com/watch?v=_FTO0DEayaw
 
 
+#Requirements:
+
+pip install uk-covid19 -pip install flask -pip install requests
 
 
 # readme:
-
+this module uses python to extarct informtion relating for covod 19 and displays them on a dahsboard relating to the topic you want to see. the user can upadte dahsboard with different news articles.
+this is a python 
+Author - Kaylum Smith
